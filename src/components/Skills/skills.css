@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,300;0,400;1,200&family=Work+Sans:wght@200&display=swap");
+
+.skills {
+  background-color: var(--bgcolor);
+  min-height: 100vh;
+  width: 100%;
+  text-align: center;
+  margin-top: 2.5rem;
+}
+.card-img {
+  width: 6rem;
+}
+.card {
+  border-radius: 0.5rem;
+}
+
+.languages-section {
+  margin: -1.5rem;
+}
+.sub-heading-section {
+  font-size: 2rem;
+  font-family: "Exo 2", serif;
+}
+
+.icon-cards {
+  background-color: #fff;
+  border-radius: 11px;
+  box-shadow: 0 3px 10px var(--secondary-shadow);
+  padding: 20px;
+  margin: 10px;
+}
+
+.tech-heading {
+  font-family: "Exo 2", serif;
+}

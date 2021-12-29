@@ -1,0 +1,35 @@
+.intro {
+  text-align: center;
+}
+
+.main-aboutme .main-heading-secton {
+  font-size: 4rem;
+  font-family: "Exo 2", serif;
+  font-weight: 500;
+}
+.para-style {
+  margin: 1rem;
+}
+.para-style h1 {
+  font-family: "Exo 2", serif;
+}
+
+.aboutme-hero-para {
+  font-size: 1.7rem;
+  line-height: 25px;
+  margin: 0;
+  padding-bottom: 50px;
+  font-family: "Exo 2", serif;
+}
+
+/* 
+
+@media (min-width: 937px) {
+  
+}
+
+@media (min-width: 768px) {
+  .bd-placeholder-img-lg {
+    font-size: 3.5rem;
+  }
+} */
