@@ -14,7 +14,7 @@ const projectApi = [
     image: "./images/PersonalPortfolio.png",
     title: "My Personal Portfolio ",
     desc: "I have created my Personal Portfolio to describe my skills, Education and Projects details. I have described myself in the website and  it is developed using ReactJs Framework.   ",
-    livedemo:"",
+    livedemo:"https://kalpeshwani-portfolio.herokuapp.com",
     vediodemo:""
 
 },
@@ -26,7 +26,7 @@ const projectApi = [
     image: "./images/add-to-cart.jpg",
     title: "Add To Cart",
     desc: "In this application we can perform functionality of Add To Cart similar to e-commerce websites.For building this application i have used the FLUTTER Framerwork building it.",
-    livedemo:"http://google.com",
+    livedemo:"",
     vediodemo:"https://youtu.be/mCvcVzZY2j4"
 },
 
