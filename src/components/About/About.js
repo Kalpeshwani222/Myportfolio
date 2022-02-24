@@ -49,6 +49,7 @@ const About = () => {
                 <img
                   src="images/kal.png"
                   alt="Kalpesh-wani Picture"
+                  alt="kalpesh-wani Picture"
                   class="shadow-dark"
                   style={{"width":"200px","height":"200px"}}
                 />
