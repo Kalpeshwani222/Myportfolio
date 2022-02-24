@@ -48,8 +48,7 @@ const About = () => {
               <div class="intro">
                 <img
                   src="images/kal.png"
-                  alt="Kalpesh-wani Picture"
-                  alt="kalpesh-wani Picture"
+                  alt="Kalpesh-wani-picture"
                   class="shadow-dark"
                   style={{"width":"200px","height":"200px"}}
                 />
